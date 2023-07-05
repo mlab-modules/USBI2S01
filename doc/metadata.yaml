@@ -9,5 +9,7 @@ images:
 - doc/img/USBI2S01A_bottom_small.jpg
 - doc/img/USBI2S01A_QRcode.png
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: USBI2S01
