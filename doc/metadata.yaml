@@ -5,9 +5,9 @@ github_repo: USBI2S01
 github_url: https://github.com/mlab-modules/USBI2S01
 homepage: false
 images:
+- doc/img/USBI2S01A_bottom_small.jpg
 - doc/img/USBI2S01A_bottom_big.jpg
 - doc/img/USBI2S01A_Connection_bottom_big.jpg
-- doc/img/USBI2S01A_bottom_small.jpg
 - doc/img/USBI2S01A_QRcode.png
 mark: 50
 status: 0
